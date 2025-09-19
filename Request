@@ -1,0 +1,46 @@
+Questions: Tableau Deliverable
+General
+1.	Requester Name
+2.	Requester Email
+3.	Requester Team/Department
+4.	Request Title
+5.	Request Description
+6.	Business Need
+7.	Priority
+a.	Date (if needed)
+b.	Business Justification (depending on priority)
+8.	Plan
+9.	LOB
+10.	Stakeholders
+11.	One-Time or Recurring
+
+Tableau Report: General
+1.	New Report or Enhancement?
+2.	List impacted markets/LOBs/contracts.
+3.	List upstream/downstream considerations.
+4.	List verticals impacted.
+5.	List HCSC application teams impacted.
+6.	List PPM payment streams impacted
+7.	Additional Notes
+8.	Attachments
+
+Tableau Report: New
+1.	Legacy Platform or New Platform (Edifecs)
+a.	Priority Ranking if Legacy
+2.	Cadence on Refresh
+3.	Time Period
+4.	Key Metrics or KPIs Needed
+5.	Granularity
+6.	Filters Needed
+7.	Types of Visualizations Needed
+8.	Examples or References Visualizations/Dashboards (attachments)
+
+Tableau Report: Existing
+1.	Proposed Change
+2.	Reason for proposed change
+3.	Proposed solution (include examples if possible)
+4.	Does a Workaround exist?
+a.	If so, explain.
+5.	Request Type, e.g., “Display/Access” (for Ops)
+6.	Ops ID
+7.	Example or Reference Visualizations for Requested Change
